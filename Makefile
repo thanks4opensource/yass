@@ -1,20 +1,20 @@
-# Y.A.S.S.: Yet Another Soma Solver
+# yass: Yet Another Soma Solver
 # Copyright (C) 2021 Mark R. Rubin aka "thanks4opensource"
 #
-# This file is part of Y.A.S.S..
+# This file is part of yass.
 #
-# The Y.A.S.S. program is free software: you can redistribute it
+# The yass program is free software: you can redistribute it
 # and/or modify it under the terms of the GNU General Public License
 # as published by the Free Software Foundation, either version 3 of
 # the License, or (at your option) any later version.
 #
-# The Y.A.S.S. program is distributed in the hope that it will be
+# The yass program is distributed in the hope that it will be
 # useful, but WITHOUT ANY WARRANTY; without even the implied warranty
 # of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 # General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# (LICENSE.txt) along with the Y.A.S.S. program.  If not, see
+# (LICENSE.txt) along with the yass program.  If not, see
 # <https:#www.gnu.org/licenses/gpl.html>
 
 
