@@ -1,0 +1,249 @@
+figures/003_dog.soma: 10 solutions
+figures/14_13_cube.soma:
+Has child shape with unsolvable number of cubicles
+figures/15_12_cube.soma: 32 solutions
+figures/16_11_cube.soma: 0 solutions
+figures/184_cantilevered_cross.soma: 19 solutions
+figures/1_thick_x.soma: 4 solutions
+figures/1_thick_y.soma: 4 solutions
+figures/1_thick_z.soma: 4 solutions
+figures/27x1.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+figures/27x1_y.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+figures/27x1_z.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+figures/2Wb.soma: 539 solutions
+figures/2Wc.soma: 11 solutions
+figures/2x2x2x3+3.soma: 0 solutions
+figures/2x3x4+3.soma: 61 solutions
+figures/2x3x4+3_separated.soma: 32 solutions
+figures/2x3x5_3holes.soma: 66 solutions
+figures/2x3x5_half_full_holes.soma: 55 solutions
+figures/3_notches.soma: 2 solutions
+figures/3_notches_base_down.soma: 2 solutions
+figures/3_pin_cube.soma: 8 solutions
+figures/3_slide_wall.soma: 7 solutions
+figures/3s_2s_wall.soma: 13 solutions
+figures/3x3x3_wall_cpn.soma: 208 solutions
+figures/3x4_3x5.soma: 1359 solutions
+figures/3x5_and_cpn.soma: 4 solutions
+figures/4_port_cantilever.soma: 0 solutions
+figures/4x4_center_tower.soma: 6 solutions
+figures/4x4_corner_tower.soma: 51 solutions
+figures/5_seat_bench.soma: 52 solutions
+figures/6x4_flat.soma: 6 solutions
+figures/8x4_flat.soma: 1 solution
+figures/A401425_418_separated.soma: 3 solutions
+figures/all_single.soma:
+Has child shape with unsolvable number of cubicles
+figures/alter.soma: 133 solutions
+figures/apartment_building.soma: 41 solutions
+figures/arch.soma: 4 solutions
+figures/arch_high.soma: 3 solutions
+figures/bad_3_cube.soma: 0 solutions
+figures/bad_child.soma:
+Has child shape with unsolvable number of cubicles
+figures/bad_num_cubicles.soma:
+Bad number of cubicles: 28 instead of 27
+figures/bad_preplace.soma:
+Pre-placed piece 't' has 5 cubes instead of correct 4
+Pre-placed piece '3' has 4 cubes instead of correct 3
+figures/bad_t_center_1_cube.soma: 0 solutions
+figures/bad_t_center_3_cube.soma: 0 solutions
+figures/bad_t_face_cube.soma: 0 solutions
+figures/bad_tab_char.soma:
+Illegal tab character in file
+figures/bathtub.soma: 79 solutions
+figures/battleship.soma: 1 solution
+figures/bb26.soma: 43 solutions
+figures/bb28.soma: 322 solutions
+figures/bb59.soma: 40 solutions
+figures/bench_2.soma: 64 solutions
+figures/big_3.soma: 19 solutions
+figures/big_3_w_pips.soma: 132 solutions
+figures/building.soma: 18 solutions
+figures/burr.soma: 0 solutions
+figures/canal.soma: 294 solutions
+figures/chair.soma: 130 solutions
+figures/church.soma: 7 solutions
+figures/clip.soma: 10 solutions
+figures/corner_notch_corner_cube.soma: 0 solutions
+figures/corner_notch_cube.soma: 7 solutions
+figures/cornerstone.soma: 5 solutions
+figures/cross.soma: 17 solutions
+figures/cross_preplaced.soma: 7 solutions
+figures/cruciform_column.soma: 0 solutions
+figures/crystal.soma: 1400 solutions
+figures/crystal_sticks.soma: 10 solutions
+figures/crystal_wall.soma: 32 solutions
+figures/cube.soma: 240 solutions
+figures/cube_pre_3_edge.soma: 14 solutions
+figures/cube_pre_3_edge_center.soma: 0 solutions
+figures/cube_pre_corner_3.soma: 0 solutions
+figures/cube_pre_good_3.soma: 207 solutions
+figures/cube_via_spike.soma: 0 solutions
+figures/cube_via_spike2.soma: 0 solutions
+figures/cube_w_2x3.soma: 0 solutions
+figures/diagonal_b2_plus.soma: 2 solutions
+figures/diagonal_pins_holes_cube.soma: 8 solutions
+figures/diamond_wall_plus_3.soma: 1 solution
+figures/disassemblable_cube.soma: 2 solutions
+figures/disassemblable_cube_joined.soma: 42 solutions
+figures/dog.soma: 12 solutions
+figures/double_W.soma: 158 solutions
+figures/double_tower_notch_cube.soma: 328 solutions
+figures/duck.soma: 335 solutions
+figures/duck_monument.soma: 68 solutions
+figures/edge_corner_cube_preplace.soma: 0 solutions
+figures/eiffel.soma: 0 solutions
+figures/elephant.soma: 239 solutions
+figures/ell_and_brick.soma: 0 solutions
+figures/face_corner_cube_preplace.soma: 37 solutions
+figures/fat_t.soma: 70 solutions
+figures/fat_w_plus_3.soma: 37 solutions
+figures/few_permutations_xy.soma: 1 solution
+figures/few_permutations_xz.soma: 1 solution
+figures/few_permutations_yz.soma: 1 solution
+figures/fish_wall.soma: 83 solutions
+figures/flat_2x12.soma: 0 solutions
+figures/flat_4x4.soma: 51 solutions
+figures/flat_castle.soma: 3 solutions
+figures/flat_castle_3x8.soma: 1 solution
+figures/flat_castle_3x8_separated.soma: 1 solution
+figures/flat_castle_4x6.soma: 6 solutions
+figures/flat_castle_bad.soma: 5 solutions
+figures/flat_castle_base_down.soma: 3 solutions
+figures/flat_castle_corner.soma: 0 solutions
+figures/flat_castle_corner_bad.soma: 0 solutions
+figures/funky_chair.soma: 152 solutions
+figures/good_t_cube.soma: 240 solutions
+figures/good_tab_char.soma: 240 solutions
+figures/heliport_corner_corner.soma: 29 solutions
+figures/heliport_corner_edge.soma: 0 solutions
+figures/heliport_edge_corner.soma: 0 solutions
+figures/heliport_edge_edge.soma: 0 solutions
+figures/high_wall.soma: 23 solutions
+figures/impossible.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+figures/internal_corner_hole_cube.soma: 0 solutions
+figures/internal_corner_hole_cube_preplace.soma: 0 solutions
+figures/inverse_cross.soma: 12 solutions
+figures/joined_2_5_tower.soma: 72 solutions
+figures/knot.soma: 39 solutions
+figures/knuth_canonical_t.soma: 240 solutions
+figures/l3_preplace_cube.soma: 0 solutions
+figures/l_3_cube.soma: 7 solutions
+figures/l_cube.soma: 0 solutions
+figures/l_p_cube.soma: 21 solutions
+figures/long_bed.soma: 4 solutions
+figures/long_wall.soma: 52 solutions
+figures/low_snake.soma: 0 solutions
+figures/lt_z3_cpn.soma: 1 solution
+figures/many_double.soma:
+Has child shape with unsolvable number of cubicles
+figures/middle_notch.soma: 138 solutions
+figures/misshapen_preplace.soma: 113 solutions
+figures/odd_footing_wall.soma: 12 solutions
+figures/offset_slices.soma: 0 solutions
+figures/one_double.soma:
+Has child shape with unsolvable number of cubicles
+figures/one_single.soma:
+Has child shape with unsolvable number of cubicles
+figures/p.soma: 98 solutions
+figures/p_dot.soma: 21 solutions
+figures/paddlewheeler.soma: 37 solutions
+figures/paddock.soma: 10 solutions
+figures/pieces.soma: 1 solution
+figures/pieces_preplaced.soma: 1 solution
+figures/pieces_preplaced_3.soma: 1 solution
+figures/pieces_preplaced_all.soma: 1 solution
+figures/pieces_preplaced_c.soma: 1 solution
+figures/pieces_preplaced_cp.soma: 1 solution
+figures/pieces_preplaced_l.soma: 1 solution
+figures/pieces_preplaced_l3.soma: 1 solution
+figures/pieces_preplaced_n.soma: 1 solution
+figures/pieces_preplaced_p.soma: 1 solution
+figures/pieces_preplaced_t.soma: 1 solution
+figures/pieces_preplaced_z.soma: 1 solution
+figures/pieces_preplaced_zt.soma: 1 solution
+figures/pluggable_cube.soma: 0 solutions
+figures/plus.soma: 0 solutions
+figures/plus_dot.soma: 0 solutions
+figures/poodle.soma: 10 solutions
+figures/preplaced_cube.soma: 2 solutions
+figures/preplaced_cube_all.soma: 1 solution
+figures/preplaced_cube_bad.soma: 0 solutions
+figures/preplaced_cube_l3.soma: 2 solutions
+figures/preplaced_cube_lt.soma: 2 solutions
+figures/preplaced_cube_lt_separated.soma: 1 solution
+figures/preplaced_cube_lz.soma: 2 solutions
+figures/preplaced_cube_lz_separated.soma: 1 solution
+figures/pseudo_symmetric_p_n_cube.soma: 2 solutions
+figures/pyramid.soma: 39 solutions
+figures/pyramid2.soma: 7 solutions
+figures/removed_added_cross.soma: 29 solutions
+figures/scorpion.soma: 1 solution
+figures/separated_stairs_cube.soma: 2 solutions
+figures/separated_tower.soma: 12 solutions
+figures/separated_tower_2_5.soma: 3 solutions
+figures/separated_tower_2_5_no_spaces.soma: 3 solutions
+figures/separated_tower_3_4.soma: 21 solutions
+figures/separated_tower_4_3.soma: 12 solutions
+figures/shell_game.soma: 6 solutions
+figures/shell_game_center.soma: 0 solutions
+figures/shower_box.soma: 1 solution
+figures/shower_box_ud.soma: 1 solution
+figures/skyscraper.soma: 916 solutions
+figures/skyscraper_tall.soma: 0 solutions
+figures/slid_cube_arch.soma: 0 solutions
+figures/snake.soma: 4 solutions
+figures/soma100.soma: 8 solutions
+figures/soma169.soma: 1 solution
+figures/soma169_taller.soma: 1 solution
+figures/spinner_wall.soma: 300 solutions
+figures/steps_3_cube.soma:
+Has child shape with unsolvable number of cubicles
+figures/swivel_pin.soma: 24 solutions
+figures/symmetric.soma: 12 solutions
+figures/symmetric_castle.soma: 5 solutions
+figures/symmetric_front_back.soma: 2 solutions
+figures/symmetric_front_back_separated.soma: 1 solution
+figures/t_c_cube.soma: 0 solutions
+figures/t_l_solutions.soma: 2 solutions
+figures/t_u_cube.soma: 0 solutions
+figures/throne.soma: 179 solutions
+figures/too_few.soma:
+Bad number of cubicles: 26 instead of 27
+figures/tower.soma: 760 solutions
+figures/tower_separated.soma: 12 solutions
+figures/tower_separated_prepop.soma: 1 solution
+figures/tower_separated_prepop_cpz.soma: 1 solution
+figures/track.soma: 4 solutions
+figures/trefoil.soma: 2 solutions
+figures/tugboat.soma: 658 solutions
+figures/tunnel.soma: 13 solutions
+figures/tyrannasaurus.soma: 0 solutions
+figures/w_plus_block.soma: 4 solutions
+figures/w_plus_block_preplace.soma: 3 solutions
+figures/w_wall.soma: 0 solutions
+figures/walls_wells_2_001.soma: 1 solution
+figures/well.soma: 160 solutions
+figures/well_3.soma: 0 solutions
+figures/well_4.soma: 0 solutions
+figures/well_5.soma: 72 solutions
+figures/bad_child.api_test:
+Has child shape with unsolvable number of cubicles
+figures/bad_num_cubicles.api_test:
+Less than 27 cubicles (26) in .api_test file
+figures/bad_piece_name.api_test:
+Bad piece character code in line:  1  0  1  q
+figures/bad_preplace.api_test:
+Pre-placed piece '3' has 4 cubes instead of correct 3
+figures/cube_all.api_test: 240 solutions
+figures/cube_none.api_test: 240 solutions
+figures/cube_one.api_test: 240 solutions
+figures/cube_pre.api_test: 207 solutions
+figures/cube_some.api_test: 240 solutions
+figures/disassemblable_cube.api_test: 2 solutions
+figures/non_normalized.api_test: 240 solutions

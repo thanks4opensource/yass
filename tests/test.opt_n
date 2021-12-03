@@ -1,0 +1,3402 @@
+figures/003_dog.soma:
+cc.zzt
+.czzpt
+nn.ppt
+
+.c....
+.nllpt
+.n....
+
+......
+33l...
+......
+
+......
+.3l...
+......
+
+figures/14_13_cube.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/15_12_cube.soma:
+znt ccp
+zzt cpp
+3zt lll
+
+.n. c.p
+nnt ...
+33. l..
+
+figures/16_11_cube.soma:
+### ###
+### ###
+### ##.
+
+.#. #.#
+### ...
+##. #..
+
+... ...
+... ...
+#.. ...
+
+figures/184_cantilevered_cross.soma:
+.....
+.tzz.
+.ttc.
+.tcc.
+.....
+
+.....
+.zzn.
+.3ln.
+.ppc.
+.....
+
+..l..
+..l..
+33lnn
+..p..
+..p..
+
+figures/1_thick_x.soma:
+... z
+... z
+... t
+... t
+... t
+
+... l
+... z
+p.. z
+p.. t
+cnn 3
+
+... l
+... l
+pp. l
+c.n 3
+ccn 3
+
+figures/1_thick_y.soma:
+... .....
+... .....
+... zzttt
+
+p.. .....
+p.. .....
+cnn lzzt3
+
+pp. .....
+c.n .....
+ccn lll33
+
+figures/1_thick_z.soma:
+p.. .....
+p.. .....
+cnn .....
+
+pp. zzttt
+c.n lzzt3
+ccn lll33
+
+figures/27x1.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+
+figures/27x1_y.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+
+figures/27x1_z.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+
+figures/2Wb.soma:
+.zz.
+zzcc
+tttc
+33..
+
+.pl.
+pplc
+ntl.
+.3..
+
+.pl.
+nn..
+n...
+....
+
+figures/2Wc.soma:
+.zz.
+zzpp
+nnp.
+.n..
+
+.3t.
+cttt
+ccp.
+.n..
+
+.33.
+ll..
+c...
+....
+
+....
+.l..
+....
+....
+
+....
+.l..
+....
+....
+
+figures/2x2x2x3+3.soma:
+## ## .
+## ## .
+## ## #
+
+## ## .
+## ## #
+## ## #
+
+figures/2x3x4+3.soma:
+czzt ..
+zztt 3.
+pnnt 33
+
+ccll ..
+cpnl ..
+ppnl ..
+
+figures/2x3x4+3_separated.soma:
+.. .. .
+.. .. .
+z. l. .
+
+.c .t .
+zp nt .
+zp lt 3
+
+cc nn .
+zc nt 3
+pp ll 3
+
+figures/2x3x5_3holes.soma:
+lzzt3
+zzctt
+pcctn
+
+lll33
+.p.n.
+ppcnn
+
+figures/2x3x5_half_full_holes.soma:
+czzpl
+n.zzl
+ntttl
+
+ccppl
+c.p.3
+nnt33
+
+figures/3_notches.soma:
+nnc llz 33
+ttt lzz 3.
+pt. lz. ..
+
+ncc ... ..
+npc ... ..
+pp. ... ..
+
+figures/3_notches_base_down.soma:
+nnc ... ..
+ttt ... ..
+pt. ... ..
+
+ncc llz 33
+npc lzz 3.
+pp. lz. ..
+
+figures/3_pin_cube.soma:
+zz. ..c
+t.p .n.
+.pp l..
+
+tzz ncc
+t3p nnc
+t33 lll
+
+figures/3_slide_wall.soma:
+....zzt
+..pzz..
+lpp....
+
+....ctt
+..p33..
+lnn....
+
+....cct
+..n3c..
+lln....
+
+figures/3s_2s_wall.soma:
+....l
+..tzl
+..t..
+ppt..
+p....
+
+....l
+..zz3
+..t..
+cnn..
+p....
+
+....l
+..z33
+..n..
+ccn..
+c....
+
+figures/3x3x3_wall_cpn.soma:
+....
+l...
+l...
+lpp.
+
+.z..
+zz..
+zpnn
+lpc.
+
+.33.
+t3.n
+ttcn
+tcc.
+
+figures/3x4_3x5.soma:
+czzt.
+zztt.
+pnnt.
+
+cclll
+cpn3l
+ppn33
+
+figures/3x5_and_cpn.soma:
+..... p..
+..... p..
+..... cnn
+
+zzttt pp.
+lzzt3 c.n
+lll33 ccn
+
+figures/4_port_cantilever.soma:
+.....
+.###.
+.###.
+.###.
+.....
+
+.....
+.#.#.
+..#..
+.#.#.
+.....
+
+..#..
+.###.
+#####
+.###.
+..#..
+
+figures/4x4_center_tower.soma:
+....
+.c..
+.cc.
+....
+
+....
+.pp.
+.cp.
+....
+
+....
+.pn.
+.nn.
+....
+
+33zz
+3zzt
+lntt
+lllt
+
+figures/4x4_corner_tower.soma:
+cc..
+c...
+....
+....
+
+cp..
+pp..
+....
+....
+
+np..
+nn..
+....
+....
+
+nz33
+tzz3
+ttzl
+tlll
+
+figures/5_seat_bench.soma:
+....z3
+...zz.
+..nz..
+.pp...
+cc....
+c.....
+
+....t3
+...tt3
+..nnt.
+.lpn..
+clp...
+ll....
+
+figures/6x4_flat.soma:
+c....p
+......
+......
+n.....
+
+cczzpp
+czztpl
+nn3ttl
+n33tll
+
+figures/8x4_flat.soma:
+pptttznn
+cp3tzznl
+cc33zlll
+
+p......n
+........
+c.......
+
+figures/A401425_418_separated.soma:
+... ..
+... tc
+... cc
+
+lzz ..
+zz3 tn
+pp3 tc
+
+lll ..
+p.. tn
+p.3 nn
+
+figures/all_single.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/alter.soma:
+pzt..
+zztt.
+zct33
+ncc3.
+lll..
+
+p....
+pp...
+nn...
+nc...
+l....
+
+figures/apartment_building.soma:
+..l
+...
+
+..l
+...
+
+zpl
+.pl
+
+zzn
+pp.
+
+tzn
+.nn
+
+tcc
+tc.
+
+tc3
+.33
+
+figures/arch.soma:
+.......
+...c...
+.......
+.......
+.......
+p.....n
+
+...c...
+..cct..
+.zlttt.
+zzlll33
+zp...n3
+pp...nn
+
+figures/arch_high.soma:
+...n...
+.......
+.......
+.......
+.......
+p.....c
+
+...n...
+..nnt..
+.zlttt.
+zzlll33
+zp...3c
+pp...cc
+
+figures/bad_3_cube.soma:
+#33
+##3
+###
+
+###
+###
+###
+
+###
+###
+###
+
+figures/bad_child.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/bad_num_cubicles.soma:
+Bad number of cubicles: 28 instead of 27
+
+figures/bad_preplace.soma:
+Pre-placed piece 't' has 5 cubes instead of correct 4
+Pre-placed piece '3' has 4 cubes instead of correct 3
+
+figures/bad_t_center_1_cube.soma:
+###
+###
+###
+
+###
+#t#
+###
+
+#t#
+#t#
+#t#
+
+figures/bad_t_center_3_cube.soma:
+###
+#t#
+###
+
+###
+#tt
+###
+
+###
+#t#
+###
+
+figures/bad_t_face_cube.soma:
+###
+###
+###
+
+###
+###
+###
+
+#t#
+#tt
+#t#
+
+figures/bad_tab_char.soma:
+Illegal tab character in file
+
+figures/bathtub.soma:
+lzztn
+zzttn
+pp3tc
+
+lllnn
+p...c
+p33cc
+
+figures/battleship.soma:
+lzznnpcc3
+lllnppc33
+
+..zznpc..
+.........
+
+...ttt...
+.........
+
+....t....
+.........
+
+figures/bb26.soma:
+..zt
+..zz
+nlcz
+nncc
+
+..3t
+..3t
+nlll
+ppc.
+
+..3t
+....
+p...
+p...
+
+figures/bb28.soma:
+.zzp
+zzpp
+nn..
+33..
+
+tttp
+clll
+nl..
+n3..
+
+ct..
+cc..
+....
+....
+
+figures/bb59.soma:
+.tzz.
+.ttzz
+ctl33
+ccpp3
+.np..
+
+.....
+.....
+lll..
+cnn..
+.np..
+
+figures/bench_2.soma:
+lzncc
+l...c
+
+zznpc
+lnnpp
+
+z3ttt
+l...p
+
+.33t.
+.....
+
+figures/big_3.soma:
+nnzz.
+tzzc.
+tp...
+tp...
+.....
+
+nllc.
+nlcc.
+tl...
+pp.33
+...3.
+
+figures/big_3_w_pips.soma:
+.....
+.....
+.....
+.....
+t....
+
+.....
+zn...
+zz...
+tzcc.
+tppc.
+
+n....
+nn...
+33...
+3plc.
+tplll
+
+figures/building.soma:
+.zcc.
+.plc.
+pplll
+
+.zzc.
+.pnn.
+.....
+
+.3zn.
+.33n.
+.....
+
+.ttt.
+.....
+.....
+
+..t..
+.....
+.....
+
+figures/burr.soma:
+..#..
+.###.
+#####
+.###.
+..#..
+
+..#..
+..#..
+#####
+..#..
+..#..
+
+.....
+..#..
+.###.
+..#..
+.....
+
+figures/canal.soma:
+zp.tc
+zz.tt
+lz.tn
+
+pp3cc
+p33nc
+lllnn
+
+figures/chair.soma:
+zcc
+zzc
+pz3
+
+nnc
+np3
+pp3
+
+tnl
+...
+...
+
+ttl
+...
+...
+
+tll
+...
+...
+
+figures/church.soma:
+ppncc
+.pnc.
+
+pnncl
+.....
+
+ztttl
+.....
+
+zztll
+.....
+
+.z33.
+.....
+
+..3..
+.....
+
+figures/clip.soma:
+zznn
+t..n
+t...
+t3..
+
+pzzc
+p..n
+t...
+33..
+
+ppcc
+l..c
+l...
+ll..
+
+figures/corner_notch_corner_cube.soma:
+#.. ..
+#.. ..
+### ..
+
+#.. ..
+##. cc
+### .c
+
+### ..
+### #c
+### ##
+
+figures/corner_notch_cube.soma:
+z.. ..
+z.. ..
+ttt ..
+
+c.. ..
+zn. pp
+ztl .p
+
+ccl ..
+cnl p3
+nnl 33
+
+figures/cornerstone.soma:
+zzttt
+pp...
+p....
+3....
+3....
+
+lzzt.
+nn...
+p....
+3....
+.....
+
+lll..
+n....
+n....
+.....
+.....
+
+cc...
+c....
+.....
+.....
+.....
+
+c....
+.....
+.....
+.....
+.....
+
+figures/cross.soma:
+zzlll3
+pzznlc
+tttncc
+
+.p...3
+ppnn.3
+.t...c
+
+figures/cross_preplaced.soma:
+t3ppzl
+tcpnzz
+tccnnz
+
+.3...l
+t3pn.l
+.c...l
+
+figures/cruciform_column.soma:
+.#.
+###
+.#.
+
+.#.
+###
+.#.
+
+.#.
+###
+.#.
+
+.#.
+###
+.#.
+
+.#.
+###
+.#.
+
+.#.
+...
+.#.
+
+figures/crystal.soma:
+lzz
+zzp
+ttt
+
+lpp
+3np
+3t.
+
+lnn
+ln.
+3..
+
+cc.
+c..
+...
+
+c..
+...
+...
+
+figures/crystal_sticks.soma:
+..zc
+.pcc
+npp.
+nn..
+
+..zz
+.ltc
+nlp.
+33..
+
+...z
+..t.
+.lt.
+3...
+
+....
+..t.
+.l..
+....
+
+figures/crystal_wall.soma:
+..z.
+.tzz
+ltcz
+.tcc
+
+..p.
+.pp.
+ltnn
+..cn
+
+..p.
+.33.
+ll..
+...n
+
+....
+.3..
+....
+....
+
+figures/cube.soma:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+
+figures/cube_pre_3_edge.soma:
+zcc
+zzc
+tzp
+
+nnc
+tpp
+t3p
+
+nll
+n3l
+t3l
+
+figures/cube_pre_3_edge_center.soma:
+###
+###
+###
+
+###
+#3#
+###
+
+###
+#3#
+#3#
+
+figures/cube_pre_corner_3.soma:
+#33
+##3
+###
+
+###
+###
+###
+
+###
+###
+###
+
+figures/cube_pre_good_3.soma:
+33n
+z3n
+ttt
+
+znn
+zpp
+ctp
+
+zll
+cpl
+ccl
+
+figures/cube_via_spike.soma:
+### ...
+### ...
+### ...
+
+#.. ##.
+... ###
+... ###
+
+#.. ##.
+... ###
+... ###
+
+figures/cube_via_spike2.soma:
+### ...
+### ...
+### ...
+
+.#. #.#
+... ###
+... ###
+
+.#. #.#
+... ###
+... ###
+
+figures/cube_w_2x3.soma:
+#.. ##
+#.. ##
+### ..
+
+#.. ##
+#.. ##
+### ..
+
+#.. ##
+#.. ##
+### ..
+
+figures/diagonal_b2_plus.soma:
+.......
+.......
+.......
+pp.....
+.cn....
+..n....
+
+...z...
+..zzt..
+p.z3tt.
+pc33t.l
+.cc...l
+..nn.ll
+
+figures/diagonal_pins_holes_cube.soma:
+.zz ..c
+p.t .n.
+pp. l..
+
+zzt ncc
+33t nnc
+3pt lll
+
+figures/diamond_wall_plus_3.soma:
+...l ..
+..c. ..
+.z.. ..
+t... ..
+
+..cl ..
+.zcc ..
+tzn. ..
+tp.. ..
+
+..ll ..
+.znn ..
+ppn. .3
+tp.. 33
+
+figures/disassemblable_cube.soma:
+ll. t..
+z.. ...
+... ...
+
+zln tp.
+z.. tp.
+c.. ...
+
+zln tpp
+cnn 33.
+cc. 3..
+
+figures/disassemblable_cube_joined.soma:
+..z3
+...3
+....
+t...
+
+.zzc
+...3
+pp.n
+tt..
+
+.zcc
+plnc
+plnn
+tll.
+
+figures/dog.soma:
+.z.t.
+.....
+.l.n.
+
+.zzt.
+.cnt.
+.lnn.
+
+.czt.
+.ccp.
+.llp.
+
+.....
+.3.pp
+.....
+
+.....
+33...
+.....
+
+figures/double_W.soma:
+pzl.
+pzz3
+nnz.
+.n..
+
+ppl.
+ct33
+ttt.
+.n..
+
+.ll.
+cc..
+c...
+....
+
+figures/double_tower_notch_cube.soma:
+3zz
+zzl
+lll
+
+33t
+ptt
+ppt
+
+cc.
+cnn
+.pn
+
+c..
+...
+..n
+
+figures/duck.soma:
+czzt.
+zztt.
+pnnt.
+
+ccll.
+cpnl.
+ppnl.
+
+.....
+...3.
+.....
+
+.....
+...33
+.....
+
+figures/duck_monument.soma:
+ttt.
+ctp.
+
+cpp.
+ccp.
+
+nn3.
+n33.
+
+.n..
+....
+
+lll.
+....
+
+lzz.
+....
+
+..zz
+....
+
+figures/edge_corner_cube_preplace.soma:
+###
+###
+###
+
+###
+##c
+###
+
+##c
+#cc
+###
+
+figures/eiffel.soma:
+###
+#.#
+###
+
+###
+#.#
+###
+
+###
+###
+###
+
+...
+.#.
+...
+
+...
+.#.
+...
+
+figures/elephant.soma:
+czz..
+zzttt
+pnn..
+
+cc3..
+cpnt.
+ppn..
+
+..3l.
+..3l.
+..ll.
+
+figures/ell_and_brick.soma:
+.###
+...#
+##.#
+##..
+
+.###
+...#
+##.#
+##..
+
+.###
+...#
+##.#
+##..
+
+figures/face_corner_cube_preplace.soma:
+zct
+pcc
+ppl
+
+zzt
+nct
+npl
+
+3zt
+33l
+nnl
+
+figures/fat_t.soma:
+.z.
+.l.
+.l.
+
+.z.
+.z.
+.l.
+
+.t.
+.z.
+.l.
+
+ttt
+cnp
+cc3
+
+npp
+nnp
+c33
+
+figures/fat_w_plus_3.soma:
+zp.. ..
+zzt. ..
+lztt ..
+.ntc ..
+
+lp.. ..
+lpp. ..
+lnnc .3
+.ncc 33
+
+figures/few_permutations_xy.soma:
+..... ...
+....n ...
+....n ...
+c..p. ...
+
+..33. ...
+..3nn zz.
+ctttp lzz
+cctpp lll
+
+figures/few_permutations_xz.soma:
+..... ...
+..... ...
+..... ...
+..... zz.
+
+..... ...
+....n ...
+....n ...
+c..p. lzz
+
+..33. ...
+..3nn ...
+ctttp ...
+cctpp lll
+
+figures/few_permutations_yz.soma:
+..... .
+..... .
+..... z
+..... l
+
+..... .
+....n z
+....n z
+c..p. l
+
+..33. .
+..3nn z
+ctttp l
+cctpp l
+
+figures/fish_wall.soma:
+..z.
+.zzt
+czl.
+cc..
+
+..3.
+.ptt
+ppl.
+cn..
+
+..3.
+.p3t
+nll.
+nn..
+
+figures/flat_2x12.soma:
+............
+#..#..#.....
+
+############
+############
+
+figures/flat_4x4.soma:
+cc..
+c...
+....
+....
+
+cp..
+pp..
+....
+....
+
+np..
+nn..
+....
+....
+
+nz33
+tzz3
+ttzl
+tlll
+
+figures/flat_castle.soma:
+ppzcc
+tpzzc
+ttlz3
+tnl33
+nnll.
+
+p...c
+.....
+.....
+.....
+n....
+
+figures/flat_castle_3x8.soma:
+c.......
+........
+p......n
+
+cc33zlll
+cp3tzznl
+pptttznn
+
+figures/flat_castle_3x8_separated.soma:
+c. .... ...
+.. .... ...
+p. .... ..n
+
+cc 33z. lll
+cp 3tzz .nl
+pp tttz .nn
+
+figures/flat_castle_4x6.soma:
+cczznn
+czztnl
+pp3ttl
+p33tll
+
+c....n
+......
+......
+p.....
+
+figures/flat_castle_bad.soma:
+p...n
+.....
+.....
+.....
+c....
+
+p.33n
+pp3nn
+zzttt
+czztl
+cclll
+
+figures/flat_castle_base_down.soma:
+n...c
+.....
+.....
+.....
+p....
+
+nnzcc
+tnzzc
+ttlz3
+tpl33
+ppll.
+
+figures/flat_castle_corner.soma:
+c...#
+.....
+.....
+.....
+#....
+
+cc###
+c####
+#####
+#####
+####.
+
+figures/flat_castle_corner_bad.soma:
+c...#
+.....
+.....
+.....
+#....
+
+cc###
+c####
+#####
+#####
+####.
+
+figures/funky_chair.soma:
+tzz
+zzc
+lll
+
+tpp
+tcc
+l.c
+
+tnp
+3.p
+...
+
+3nn
+3.n
+...
+
+figures/good_t_cube.soma:
+pzz
+zzc
+3cc
+
+pnn
+ppn
+33c
+
+lll
+ltn
+ttt
+
+figures/good_tab_char.soma:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+
+figures/heliport_corner_corner.soma:
+.n.
+znn
+.3.
+
+znt
+ztt
+33t
+
+z.l
+...
+c.p
+
+lll
+cpp
+ccp
+
+figures/heliport_corner_edge.soma:
+.#.
+###
+.#.
+
+###
+###
+###
+
+.#.
+#.#
+.#.
+
+###
+###
+###
+
+figures/heliport_edge_corner.soma:
+#.#
+.#.
+#.#
+
+###
+###
+###
+
+#.#
+...
+#.#
+
+###
+###
+###
+
+figures/heliport_edge_edge.soma:
+#.#
+.#.
+#.#
+
+###
+###
+###
+
+.#.
+#.#
+.#.
+
+###
+###
+###
+
+figures/high_wall.soma:
+...zz
+..zz.
+.tl..
+cc...
+c....
+
+...3p
+..33.
+.tl..
+ct...
+n....
+
+...pp
+..lp.
+.tl..
+nn...
+n....
+
+figures/impossible.soma:
+Unsolvable one- or zero-dimensional shape or part of shape
+
+figures/internal_corner_hole_cube.soma:
+### ..
+#.# ..
+### ..
+
+### ..
+#.. ..
+#.# #.
+
+### ..
+### #.
+### ##
+
+figures/internal_corner_hole_cube_preplace.soma:
+###
+#c#
+###
+
+###
+#cc
+#c#
+
+###
+###
+###
+
+figures/inverse_cross.soma:
+pplzzt
+cpzztt
+cc3nnt
+
+p.lll.
+....n.
+c.33n.
+
+figures/joined_2_5_tower.soma:
+....p3
+....pp
+......
+
+....33
+czznlp
+zzlll.
+
+......
+cctnn.
+ctttn.
+
+figures/knot.soma:
+..t..
+.ztt.
+nntpp
+.nlp.
+..l..
+
+.....
+.zzc.
+.3cc.
+.nlp.
+.....
+
+.....
+..z..
+.33c.
+..l..
+.....
+
+figures/knuth_canonical_t.soma:
+lll
+ztl
+ttt
+
+zcc
+zc3
+ppn
+
+zc3
+pn3
+pnn
+
+figures/l3_preplace_cube.soma:
+###
+###
+###
+
+33#
+###
+###
+
+l3#
+l##
+ll#
+
+figures/l_3_cube.soma:
+tpp
+nzc
+ncc
+
+tzp
+tzp
+nnc
+
+tz3
+l33
+lll
+
+figures/l_cube.soma:
+..##
+#.##
+#...
+###.
+
+..##
+#.##
+#...
+###.
+
+..##
+#.##
+#...
+###.
+
+figures/l_p_cube.soma:
+t.z3
+c.zz
+cc.z
+
+t.33
+t.pp
+cn.p
+
+t.ll
+n.pl
+nn.l
+
+figures/long_bed.soma:
+ppzlllnn
+ptzz3lnc
+tttz33cc
+
+.......n
+p.......
+.......c
+
+figures/long_wall.soma:
+....cz
+...lzz
+..tlz.
+.ttl..
+pnt...
+nn....
+
+....cc
+...lc.
+..33..
+.p3...
+pp....
+n.....
+
+figures/low_snake.soma:
+......#
+.......
+.......
+.......
+.......
+.......
+.......
+
+.....##
+....##.
+...##..
+..##...
+.##....
+##.....
+#......
+
+.....##
+....##.
+...##..
+..##...
+.##....
+##.....
+#......
+
+figures/lt_z3_cpn.soma:
+... ... p..
+... ... p..
+... ... cnn
+
+t.l .z. pp.
+ttl zz3 c.n
+tll z33 ccn
+
+figures/many_double.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/middle_notch.soma:
+pzzlttt
+zz3.ntc
+
+plllnnc
+pp33ncc
+
+figures/misshapen_preplace.soma:
+tzz
+zzp
+3pp
+
+tnn
+tcp
+33l
+
+tnl
+cnl
+ccl
+
+figures/odd_footing_wall.soma:
+....pp
+....cp
+nnzzcc
+nzz...
+
+....p.
+....t.
+ln33c.
+......
+
+....t.
+....t.
+lll3t.
+......
+
+figures/offset_slices.soma:
+.....
+.....
+###..
+###..
+###..
+
+.....
+.###.
+.###.
+.###.
+.....
+
+..###
+..###
+..###
+.....
+.....
+
+figures/one_double.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/one_single.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/p.soma:
+ttt
+z.p
+ccp
+c..
+
+ztn
+z.n
+cpp
+l..
+
+znn
+l.3
+l33
+l..
+
+figures/p_dot.soma:
+tz ..
+zz pp
+z. lp
+
+tt ..
+3c pn
+3. ln
+
+tc ..
+cc nn
+3. ll
+
+figures/paddlewheeler.soma:
+..z..
+tzz3p
+tz33p
+tclll
+..l..
+
+.....
+.nn..
+tcnpp
+.cc..
+.....
+
+.....
+.....
+..n..
+.....
+.....
+
+figures/paddock.soma:
+zznn
+t..n
+t...
+t3..
+
+pzzc
+p..n
+t...
+33..
+
+ppcc
+l..c
+l...
+ll..
+
+figures/pieces.soma:
+cc.pp.nn .zz
+c...p.n. zz.
+........ ...
+.t....l. ..3
+ttt.lll. .33
+
+c..p...n ...
+........ ...
+........ ...
+........ ...
+........ ...
+
+figures/pieces_preplaced.soma:
+cc.pp.nn .zz
+c...p.n. zz.
+........ ...
+.t....l. ..3
+ttt.lll. .33
+
+c..p...n ...
+........ ...
+........ ...
+........ ...
+........ ...
+
+figures/pieces_preplaced_3.soma:
+............
+c..n...p....
+............
+............
+............
+
+c..nn.pp..zz
+cc.n...p.zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_all.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_c.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_cp.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_l.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_l3.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_n.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_p.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_t.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_z.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pieces_preplaced_zt.soma:
+............
+c...p.n.....
+............
+............
+............
+
+c..pp.nn..zz
+cc..p.n..zz.
+............
+.t..l...3...
+ttt.lll.33..
+
+figures/pluggable_cube.soma:
+### ###
+### #.#
+### ###
+
+.#. #.#
+### ...
+.#. #.#
+
+... ...
+.#. ...
+... ...
+
+figures/plus.soma:
+..#..
+..#..
+#####
+..#..
+..#..
+
+..#..
+..#..
+#####
+..#..
+..#..
+
+..#..
+..#..
+#####
+..#..
+..#..
+
+figures/plus_dot.soma:
+..#.
+.###
+..#.
+##..
+##..
+
+..#.
+.###
+..#.
+##..
+##..
+
+..#.
+.###
+..#.
+##..
+##..
+
+figures/poodle.soma:
+tzz.cc
+tnzzc.
+tnn.pp
+
+....c.
+tnllp.
+....p.
+
+......
+...l33
+......
+
+......
+...l3.
+......
+
+figures/preplaced_cube.soma:
+ccp
+czp
+nnt
+
+cpp
+nzt
+nzt
+
+lll
+33l
+3zt
+
+figures/preplaced_cube_all.soma:
+ccp
+czp
+nnt
+
+cpp
+nzt
+nzt
+
+lll
+33l
+3zt
+
+figures/preplaced_cube_bad.soma:
+ccp
+ctp
+nnz
+
+cpp
+ntz
+ntz
+
+###
+#tz
+###
+
+figures/preplaced_cube_l3.soma:
+lll
+33l
+3zt
+
+cpp
+nzt
+nzt
+
+ccp
+czp
+nnt
+
+figures/preplaced_cube_lt.soma:
+tzl
+ttl
+tll
+
+3zn
+3zn
+ppc
+
+3nn
+pzc
+pcc
+
+figures/preplaced_cube_lt_separated.soma:
+... ...
+... ...
+.z. ...
+
+nnc ...
+3zp ...
+3zp ...
+
+ncc tll
+nzc ttl
+3pp t.l
+
+figures/preplaced_cube_lz.soma:
+llz
+lzz
+lzt
+
+cpp
+n3t
+n3t
+
+ccp
+c3p
+nnt
+
+figures/preplaced_cube_lz_separated.soma:
+llz
+lzz
+lz.
+
+...
+...
+..t
+
+cpp
+n3t
+n3t
+
+ccp
+c3p
+nnt
+
+figures/pseudo_symmetric_p_n_cube.soma:
+tzz ..
+zz. .p
+3.. ..
+
+ttc pp
+3.. np
+3.. ..
+
+tcc nn
+l.c n.
+lll ..
+
+figures/pyramid.soma:
+..t..
+.ztt.
+nntpp
+.nlp.
+..l..
+
+.....
+.zzc.
+.3cc.
+.nlp.
+.....
+
+.....
+..z..
+.33c.
+..l..
+.....
+
+figures/pyramid2.soma:
+.zzt.
+zzttt
+nncpp
+ncclp
+.lll.
+
+.....
+..3..
+.n3p.
+..c..
+.....
+
+.....
+.....
+..3..
+.....
+.....
+
+figures/removed_added_cross.soma:
+tcc
+ttc
+tll
+
+z.c
+...
+p.l
+
+zz3
+np3
+ppl
+
+.z.
+nn3
+.n.
+
+figures/scorpion.soma:
+.....pp
+...llp.
+tzzlcc3
+...lcn.
+.....nn
+
+.......
+.....p.
+ttzzc33
+.....n.
+.......
+
+.......
+.......
+t......
+.......
+.......
+
+figures/separated_stairs_cube.soma:
+t.. ..
+n.. ..
+n.. zl
+
+t.. ..
+t.. zp
+nnc zl
+
+t.. pp
+33c zp
+3cc ll
+
+figures/separated_tower.soma:
+ppn czz3
+lpn zz33
+
+pnn cct.
+lll cttt
+
+figures/separated_tower_2_5.soma:
+czznl p.
+zzlll pp
+
+cctnn 33
+ctttn 3p
+
+figures/separated_tower_2_5_no_spaces.soma:
+czznl p.
+zzlll pp
+
+cctnn 33
+ctttn 3p
+
+figures/separated_tower_3_4.soma:
+pzzn ct.
+zznn ttt
+
+plll cc3
+ppnl c33
+
+figures/separated_tower_4_3.soma:
+ttt 3zz.
+ctp zznn
+
+cpp 33ln
+ccp llln
+
+figures/shell_game.soma:
+.....
+..c..
+.ncc.
+..p..
+.....
+
+llzz.
+lnnzz
+lnc.t
+33ptt
+.3ppt
+
+figures/shell_game_center.soma:
+.....
+..#..
+.###.
+..#..
+.....
+
+####.
+#####
+##.##
+#####
+.####
+
+figures/shower_box.soma:
+33..
+z3..
+....
+....
+
+zl..
+z...
+....
+....
+
+zlpp
+t...
+n...
+n..c
+
+tllp
+t..p
+t..c
+nncc
+
+figures/shower_box_ud.soma:
+tttn
+l..n
+l..c
+ppcc
+
+ztnn
+l...
+p...
+p..c
+
+zz..
+l...
+....
+....
+
+3z..
+33..
+....
+....
+
+figures/skyscraper.soma:
+lzz
+zzc
+ttt
+
+lll
+pcc
+ptc
+
+33.
+pp.
+...
+
+n3.
+nn.
+...
+
+n..
+...
+...
+
+figures/skyscraper_tall.soma:
+###
+###
+###
+
+##.
+##.
+...
+
+##.
+##.
+...
+
+##.
+##.
+...
+
+##.
+##.
+...
+
+#..
+...
+...
+
+#..
+...
+...
+
+figures/slid_cube_arch.soma:
+###..
+..###
+###..
+
+###..
+..###
+###..
+
+###..
+..###
+###..
+
+figures/snake.soma:
+........ll
+..........
+..........
+..........
+
+........l.
+..........
+..........
+..........
+
+......zzl.
+....pnn...
+..ctp.....
+3cc.......
+
+......nzz.
+....ppn...
+..ttt.....
+33c.......
+
+figures/soma100.soma:
+z...
+....
+....
+....
+
+zz..
+3...
+....
+....
+
+3z..
+3...
+....
+....
+
+nn..
+n...
+....
+....
+
+pn..
+p...
+....
+....
+
+pp..
+c...
+....
+....
+
+cttt
+cct.
+lll.
+l...
+
+figures/soma169.soma:
+...
+33.
+...
+
+...
+.3.
+...
+
+.z.
+.z.
+...
+
+...
+.z.
+.z.
+
+...
+.t.
+...
+
+...
+tt.
+...
+
+...
+.t.
+...
+
+...
+.l.
+...
+
+...
+.l.
+...
+
+...
+.ll
+...
+
+...
+.n.
+...
+
+n..
+nn.
+...
+
+...
+.p.
+...
+
+..p
+.pp
+...
+
+...
+.c.
+...
+
+...
+.cc
+.c.
+
+figures/soma169_taller.soma:
+...
+.33
+...
+
+...
+..3
+...
+
+...
+..z
+...
+
+...
+.zz
+...
+
+...
+.z.
+...
+
+...
+.t.
+...
+
+...
+tt.
+...
+
+...
+.t.
+...
+
+...
+.l.
+...
+
+...
+.l.
+...
+
+...
+.ll
+...
+
+...
+.n.
+...
+
+n..
+nn.
+...
+
+...
+.p.
+...
+
+..p
+.pp
+...
+
+...
+.c.
+...
+
+...
+.cc
+.c.
+
+figures/spinner_wall.soma:
+zz...
+tzzcc
+...pc
+
+tn...
+tnppc
+...p3
+
+nn...
+tlll3
+...l3
+
+figures/steps_3_cube.soma:
+Has child shape with unsolvable number of cubicles
+
+figures/swivel_pin.soma:
+..lll
+..zz3
+czz33
+ppn..
+pnn..
+
+....l
+.....
+cct..
+ctt..
+pnt..
+
+figures/symmetric.soma:
+..z t.. ..
+... ... ..
+
+pzz tcc ..
+.nn tc. ..
+
+pzn tcl 33
+ppn lll 3.
+
+figures/symmetric_castle.soma:
+cczzp
+czzpp
+.ttt.
+3ltnn
+3llln
+
+c...p
+.....
+.....
+.....
+3...n
+
+figures/symmetric_front_back.soma:
+.....c..
+.....pn.
+.....p..
+
+llzzccnn
+l.tzzcn3
+ltttpp33
+
+figures/symmetric_front_back_separated.soma:
+......c..
+......pn.
+......p..
+
+llzz.ccnn
+l.tzz.cn3
+lttt.pp33
+
+figures/t_c_cube.soma:
+#c#
+#cc
+###
+
+###
+#c#
+###
+
+###
+#t#
+ttt
+
+figures/t_l_solutions.soma:
+zz.nn pp  ....
+.zz.n p.  cc..
+..... ..  .c..
+..... ..  .3..
+..... ..  33..
+
+...n. .p  .ttt
+..... ..  .ctl
+..... ..  .lll
+..... ..  ....
+..... ..  ....
+
+figures/t_u_cube.soma:
+#.##
+##.#
+#.##
+
+#.##
+##.#
+#.##
+
+#.##
+##.#
+#.##
+
+figures/throne.soma:
+tzz
+zz3
+lll
+
+tpp
+t.3
+l.3
+
+tnp
+c.p
+...
+
+cnn
+ccn
+...
+
+figures/too_few.soma:
+Bad number of cubicles: 26 instead of 27
+
+figures/tower.soma:
+3zztttc
+zznnpcc
+
+33lntp.
+lllnppc
+
+figures/tower_separated.soma:
+ppn czz3
+lpn zz33
+
+pnn cct.
+lll cttt
+
+figures/tower_separated_prepop.soma:
+ppn czz.
+lpn cczz
+
+pnn ttt3
+lll ct33
+
+figures/tower_separated_prepop_cpz.soma:
+ttt pzz.
+ntc zz33
+
+nnc plll
+ncc pp3l
+
+figures/track.soma:
+zccpp
+zzcn3
+lznn3
+
+l.c.p
+l.t.p
+l.n.3
+
+..t..
+..t..
+..t..
+
+figures/trefoil.soma:
+.pcc
+zzc.
+lzz.
+lll.
+
+ppc3
+p...
+t...
+....
+
+nn33
+t...
+t...
+....
+
+n...
+n...
+t...
+....
+
+figures/tugboat.soma:
+czzt
+zztt
+pnnt
+
+ccll
+cpnl
+ppnl
+
+....
+.33.
+....
+
+....
+..3.
+....
+
+figures/tunnel.soma:
+lz.pp
+lz.cp
+ll.cc
+
+.n.p.
+.z.t.
+.z.c.
+
+.nnt.
+.3nt.
+.33t.
+
+figures/tyrannasaurus.soma:
+##..
+.#..
+##..
+
+.##.
+.##.
+.##.
+
+####
+.#..
+####
+
+.#..
+.#..
+.#..
+
+....
+.#..
+....
+
+....
+.#..
+....
+
+....
+##..
+....
+
+figures/w_plus_block.soma:
+.zz tc
+zz. cc
+l.. ..
+
+.3p tn
+33. tc
+l.. ..
+
+.pp tn
+lp. nn
+l.. ..
+
+figures/w_plus_block_preplace.soma:
+.zz cc
+zz. ct
+l.. ..
+
+.3p ct
+33. nt
+l.. ..
+
+.pp nn
+lp. nt
+l.. ..
+
+figures/w_wall.soma:
+....#
+....#
+..###
+..#..
+###..
+
+....#
+....#
+..###
+..#..
+###..
+
+....#
+....#
+..###
+..#..
+###..
+
+figures/walls_wells_2_001.soma:
+ccz.
+c...
+p...
+....
+
+czzn
+t..n
+p..3
+ppl.
+
+tznn
+t..3
+t..3
+lll.
+
+figures/well.soma:
+czz.
+zzpp
+ttt.
+.t..
+
+ccp.
+c.p.
+3nn.
+....
+
+lll.
+l.n.
+33n.
+....
+
+figures/well_3.soma:
+###
+###
+###
+
+...
+#.#
+...
+
+###
+#.#
+###
+
+###
+#.#
+###
+
+figures/well_4.soma:
+###
+###
+###
+
+#..
+...
+..#
+
+###
+#.#
+###
+
+###
+#.#
+###
+
+figures/well_5.soma:
+ttt
+z.c
+lcc
+
+ztn
+z.n
+lpc
+
+znn
+l.p
+lpp
+
+...
+3..
+...
+
+...
+33.
+...
+
+figures/bad_child.api_test:
+Has child shape with unsolvable number of cubicles
+
+figures/bad_num_cubicles.api_test:
+Less than 27 cubicles (26) in .api_test file
+
+figures/bad_piece_name.api_test:
+Bad piece character code in line:  1  0  1  q
+
+figures/bad_preplace.api_test:
+Pre-placed piece '3' has 4 cubes instead of correct 3
+
+figures/cube_all.api_test:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+(-2,2,2):3
+(0,2,2):z
+(2,2,2):z
+(-2,0,2):z
+(0,0,2):z
+(2,0,2):c
+(-2,-2,2):t
+(0,-2,2):t
+(2,-2,2):t
+(-2,2,0):3
+(0,2,0):3
+(2,2,0):c
+(-2,0,0):n
+(0,0,0):c
+(2,0,0):c
+(-2,-2,0):p
+(0,-2,0):t
+(2,-2,0):l
+(-2,2,-2):n
+(0,2,-2):n
+(2,2,-2):l
+(-2,0,-2):n
+(0,0,-2):p
+(2,0,-2):l
+(-2,-2,-2):p
+(0,-2,-2):p
+(2,-2,-2):l
+
+figures/cube_none.api_test:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+(-2,2,2):3
+(0,2,2):z
+(2,2,2):z
+(-2,0,2):z
+(0,0,2):z
+(2,0,2):c
+(-2,-2,2):t
+(0,-2,2):t
+(2,-2,2):t
+(-2,2,0):3
+(0,2,0):3
+(2,2,0):c
+(-2,0,0):n
+(0,0,0):c
+(2,0,0):c
+(-2,-2,0):p
+(0,-2,0):t
+(2,-2,0):l
+(-2,2,-2):n
+(0,2,-2):n
+(2,2,-2):l
+(-2,0,-2):n
+(0,0,-2):p
+(2,0,-2):l
+(-2,-2,-2):p
+(0,-2,-2):p
+(2,-2,-2):l
+
+figures/cube_one.api_test:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+(-2,2,2):3
+(0,2,2):z
+(2,2,2):z
+(-2,0,2):z
+(0,0,2):z
+(2,0,2):c
+(-2,-2,2):t
+(0,-2,2):t
+(2,-2,2):t
+(-2,2,0):3
+(0,2,0):3
+(2,2,0):c
+(-2,0,0):n
+(0,0,0):c
+(2,0,0):c
+(-2,-2,0):p
+(0,-2,0):t
+(2,-2,0):l
+(-2,2,-2):n
+(0,2,-2):n
+(2,2,-2):l
+(-2,0,-2):n
+(0,0,-2):p
+(2,0,-2):l
+(-2,-2,-2):p
+(0,-2,-2):p
+(2,-2,-2):l
+
+figures/cube_pre.api_test:
+z33
+c3l
+ccl
+
+zzp
+tpp
+cnl
+
+tzp
+tnn
+tnl
+(-2,2,2):z
+(0,2,2):3
+(2,2,2):3
+(-2,0,2):c
+(0,0,2):3
+(2,0,2):l
+(-2,-2,2):c
+(0,-2,2):c
+(2,-2,2):l
+(-2,2,0):z
+(0,2,0):z
+(2,2,0):p
+(-2,0,0):t
+(0,0,0):p
+(2,0,0):p
+(-2,-2,0):c
+(0,-2,0):n
+(2,-2,0):l
+(-2,2,-2):t
+(0,2,-2):z
+(2,2,-2):p
+(-2,0,-2):t
+(0,0,-2):n
+(2,0,-2):n
+(-2,-2,-2):t
+(0,-2,-2):n
+(2,-2,-2):l
+
+figures/cube_some.api_test:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+(-2,2,2):3
+(0,2,2):z
+(2,2,2):z
+(-2,0,2):z
+(0,0,2):z
+(2,0,2):c
+(-2,-2,2):t
+(0,-2,2):t
+(2,-2,2):t
+(-2,2,0):3
+(0,2,0):3
+(2,2,0):c
+(-2,0,0):n
+(0,0,0):c
+(2,0,0):c
+(-2,-2,0):p
+(0,-2,0):t
+(2,-2,0):l
+(-2,2,-2):n
+(0,2,-2):n
+(2,2,-2):l
+(-2,0,-2):n
+(0,0,-2):p
+(2,0,-2):l
+(-2,-2,-2):p
+(0,-2,-2):p
+(2,-2,-2):l
+
+figures/disassemblable_cube.api_test:
+ll. t..
+z.. ...
+... ...
+
+zln tp.
+z.. tp.
+c.. ...
+
+zln tpp
+cnn 33.
+cc. 3..
+(-6,2,2):l
+(-4,2,2):l
+(2,2,2):t
+(-6,0,2):z
+(-6,2,0):z
+(-4,2,0):l
+(-2,2,0):n
+(2,2,0):t
+(4,2,0):p
+(-6,0,0):z
+(2,0,0):t
+(4,0,0):p
+(-6,-2,0):c
+(-6,2,-2):z
+(-4,2,-2):l
+(-2,2,-2):n
+(2,2,-2):t
+(4,2,-2):p
+(6,2,-2):p
+(-6,0,-2):c
+(-4,0,-2):n
+(-2,0,-2):n
+(2,0,-2):3
+(4,0,-2):3
+(-6,-2,-2):c
+(-4,-2,-2):c
+(2,-2,-2):3
+
+figures/non_normalized.api_test:
+3zz
+zzc
+ttt
+
+33c
+ncc
+ptl
+
+nnl
+npl
+ppl
+(-2,2,2):3
+(0,2,2):z
+(2,2,2):z
+(-2,0,2):z
+(0,0,2):z
+(2,0,2):c
+(-2,-2,2):t
+(0,-2,2):t
+(2,-2,2):t
+(-2,2,0):3
+(0,2,0):3
+(2,2,0):c
+(-2,0,0):n
+(0,0,0):c
+(2,0,0):c
+(-2,-2,0):p
+(0,-2,0):t
+(2,-2,0):l
+(-2,2,-2):n
+(0,2,-2):n
+(2,2,-2):l
+(-2,0,-2):n
+(0,0,-2):p
+(2,0,-2):l
+(-2,-2,-2):p
+(0,-2,-2):p
+(2,-2,-2):l
+
