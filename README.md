@@ -68,11 +68,13 @@ Better yet, make ([Instructables](https://www.instructables.com/Make-a-Wooden-So
 Purpose <a name="purpose"></a>
 --------------
 
-yass was written for investigating interesting [<sup>3</sup>](#footnote3) details about Soma figures and their solutions. Things like:
+**yass** was written for investigating interesting [<sup>3</sup>](#footnote3) details about Soma figures and their solutions. Things like:
 
 * Is there a solution to a given shape? One of the joys of Soma is that in addition to the coincidence that Piet Hein originally set out to prove (can the seven Soma pieces in fact be assembled into a 3x3x3 cube?) there exist so many other impressionistic/evocative shapes, the vast majority of which *are* solvable. See several thousand examples at [Thorlief's](https://www.fam-bundgaard.dk/SOMA/FIGURES/ALLFIGS.HTM) pages. 
 
-* Are there any solutions given restrictions on how one or more pieces are placed? For example, the program can be used as a brute-force demonstration of the elegant proof listed in [Wikipedia](https://en.wikipedia.org/wiki/Soma_cube#Solutions)  that all cube solutions must have the "t" piece spanning two corners of the cube ("#" characters in output below indicate an unsolvable figure):
+* How many different solutions exist for a given figure? The program correctly finds the 240 unique solutions (11520 including rotations and reflections) for the basic 3x3x3 cube. The default output with rotations and reflections excluded greatly aids in understanding meaningful differences between the solutions.
+
+* Are there any solutions given restrictions on how one or more pieces are placed? For example, the program can be used as a brute-force demonstration of the elegant proof listed in [Wikipedia](https://en.wikipedia.org/wiki/Soma_cube#Solutions)  that all cube solutions must have the "t" piece spanning two corners of the cube ("#" characters in the output indicate an unsolvable figure):
 
             $ ./soma figures/bad_t_face_cube.soma 
             ###
@@ -113,6 +115,70 @@ yass was written for investigating interesting [<sup>3</sup>](#footnote3) detail
             #t#
             ###
 
+* Or alternately, a correctly pre-placed "t" piece yields the full count of 240 cube solutions, proving that such placement is mandatory without manually checking the complete output of `soma -a figures/cube.soma` ("o" characters indicate normal, non-pre-placed, shape cubicles -- see [Extended help](#extended_help), and input file format and piece naming  [notes](#file_format_notes), below).
+
+            $ cat figures/good_t_cube.soma 
+            ooo
+            ooo
+            ooo
+
+            ooo
+            ooo
+            ooo
+
+            ooo
+            oto
+            ttt
+
+            $ ./soma -c figures/good_t_cube.soma
+            figures/good_t_cube.soma: 240 solutions
+
+            $ cat figures/cube.soma
+            ooo
+            ooo
+            ooo
+
+            ooo
+            ooo
+            ooo
+
+            ooo
+            ooo
+            ooo
+
+            $ ./soma -c figures/cube.soma
+            figures/cube.soma: 240 solutions
+
+            $ ./soma -a figures/cube.soma
+            solution #1
+            3zz
+            zzc
+            ttt
+
+            33c
+            ncc
+            ptl
+
+            nnl
+            npl
+            ppl
+
+            ... solutions #2 through #239 ...
+
+            solution #240
+            ccl
+            czl
+            3ll
+
+            czn
+            tzp
+            33p
+
+            tzn
+            tnn
+            tpp
+
+
 * What about the disappointing [<sup>4</sup>](#footnote4) fact that not all interesting figures are solvable? For example, my own personal greatest disappointment, the "windowed cube":
 
             $ ./soma figures/internal_corner_hole_cube.soma 
@@ -127,8 +193,6 @@ yass was written for investigating interesting [<sup>3</sup>](#footnote3) detail
             ### ..
             ### #.
             ### ##
-
-* How many different solutions exist for a given figure? The program correctly finds the 240 unique solutions (11520 including rotations and reflections) for the basic 3x3x3 cube. The default output (rotations and reflections excluded) greatly aids in understanding meaningful differences between the solutions.
 
 * What interesting separated shapes can be combined into more basic ones (such as the basic cube)?
 
@@ -332,6 +396,7 @@ Run the program with one of its two (basic and extended) help options.
             incorrect solutions)
           - Tab characters not allowed except after "#" comment character
 
+<a name="file_format_notes"></a>
 I realize this file format (much less the piece names) don't match what is likely [common practice](https://www.fam-bundgaard.dk/SOMA/NOTATION.HTM). See [std2yass.py](#std2yass_py), and particularly the [Autobio(soma)graphy](#autobio_soma_graphy), below. I've been writing Soma solver software for a very long time and it's too late to change now. It never occurred to me to call the pieces anything other than "corner", "positive", "negative", "zee", "tee", "ell", and "three". I see the logic behind naming the last one "vee", but basing that on a unique non-orthogonal rotation is too incongruous. Similarly, the "slice" file format seems as intuitively obvious now as it did decades ago when I first implemented it.
 
 
